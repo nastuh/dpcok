@@ -23,8 +23,3 @@ A modern music player built with ElectronJS featuring YouTube integration and ad
 - npm/yarn
 - FFmpeg (for YouTube conversion)
 
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/electron-music-player.git
-   cd electron-music-player
