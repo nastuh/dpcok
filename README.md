@@ -1,6 +1,5 @@
 # dpcok
 
-![Player Screenshot](screenshot.png)
 
 A modern music player built with ElectronJS featuring YouTube integration and advanced playback controls.
 
